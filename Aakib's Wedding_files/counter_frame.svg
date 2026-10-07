@@ -1,0 +1,20 @@
+<svg id="counter_frame" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="643.582" height="112.683" viewBox="0 0 643.582 112.683">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dea752"/>
+      <stop offset="0.144" stop-color="#fdcf3e"/>
+      <stop offset="0.269" stop-color="#fddc8b"/>
+      <stop offset="0.413" stop-color="#fdcf3e"/>
+      <stop offset="0.532" stop-color="#f2b64d"/>
+      <stop offset="0.646" stop-color="#fddc8b"/>
+      <stop offset="0.77" stop-color="#fdcf3e"/>
+      <stop offset="0.87" stop-color="#dea752"/>
+      <stop offset="1" stop-color="#fdcf3e"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_15903" data-name="Group 15903">
+    <g id="Group_15902" data-name="Group 15902">
+      <path id="Path_6443" data-name="Path 6443" d="M1879.588,593.073H1302.932v-3.2a30.3,30.3,0,0,0-30.262-30.263h-3.2V513.853h3.2a30.3,30.3,0,0,0,30.262-30.263v-3.2h576.657v3.2a30.3,30.3,0,0,0,30.263,30.263h3.2V559.61h-3.2a30.3,30.3,0,0,0-30.263,30.263Zm-570.391-6.4h564.128a36.729,36.729,0,0,1,33.314-33.328V520.117a36.718,36.718,0,0,1-33.314-33.327H1309.2a36.731,36.731,0,0,1-33.315,33.327v33.229A36.731,36.731,0,0,1,1309.2,586.673Z" transform="translate(-1269.47 -480.39)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
